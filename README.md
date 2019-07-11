@@ -10,7 +10,7 @@ Age: 15
 City: nepal
 Number: +9779819695607
 Email:shivapaswan43@gmail.com(email)
-website: shivaaylove.tk
+website: www.shivaaylove.tk
 website2: www.webprofileguard.tk
 
-website3 hostingbull.ga
+website3 www.hostingbull.ga
